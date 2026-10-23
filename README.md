@@ -3,7 +3,7 @@
 **Student:** SEBERA Isimbi Ange Thressy
 **API:** [DummyJSON Products](https://dummyjson.com/docs/products)
 **Live app:**https://async-data-explorer.netlify.app
-**Video walkthrough:** https://youtu.be/F4yXINFBp0w
+**Video walkthrough:** https://youtu.be/x76TLElmDlU
 
 A single-page app that loads products from a public API and lets you browse, search, filter and sort them. Built with HTML, Tailwind CSS v4 (Vite) and vanilla JavaScript (ES modules) using only the built-in `fetch`.
 
