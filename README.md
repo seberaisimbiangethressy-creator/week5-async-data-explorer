@@ -65,8 +65,8 @@ Shortened response from `GET https://dummyjson.com/products?limit=100`:
 Transformations: `products` is pulled out with destructuring; `filter` + `toSorted` produce the visible list; `map` turns each product into card HTML (all text passed through `escapeHTML`); `reduce` computes the stats; `new Set(...map(category))` builds the filter options.
 
 ## Screenshots
-![Loading state](screenshots/Loading.png)
-![Error state](screenshots/Error.png)
+![Loading state](screenshots/loading.png)
+![Error state](screenshots/error.png)
 ![success state](screenshots/success.png)
 ![empty state](screenshots/empty.png)
 
