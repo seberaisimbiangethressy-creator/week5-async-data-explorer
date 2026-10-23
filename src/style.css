@@ -1,0 +1,8 @@
+/* Tailwind v4: one import pulls in everything. Utility classes are found
+   automatically by scanning index.html and the files in src/. */
+@import "tailwindcss";
+
+/* Dim the page behind the <dialog> modal a little nicer than the default. */
+dialog::backdrop {
+  background: rgb(15 23 42 / 0.6);
+}
